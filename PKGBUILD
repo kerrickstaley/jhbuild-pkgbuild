@@ -3,7 +3,7 @@
 
 pkgname=jhbuild
 pkgver=3.5.91
-pkgrel=8
+pkgrel=9
 pkgdesc='\
 JHBuild allows you to automatically download and compile Gnome\
  "modules" (i.e. source code packages).'
