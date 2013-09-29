@@ -4,9 +4,7 @@
 pkgname=jhbuild
 pkgver=3.5.91
 pkgrel=9
-pkgdesc='\
-JHBuild allows you to automatically download and compile Gnome\
- "modules" (i.e. source code packages).'
+pkgdesc='JHBuild allows you to automatically download and compile Gnome "modules" (i.e. source code packages).'
 arch=('i686' 'x86_64')
 license=('GPL')
 depends=(python2)
